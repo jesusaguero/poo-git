@@ -8,3 +8,9 @@ jueves
 viernes
 sabado
 domingo
+
+Meses del año
+Enero
+Febrero
+Marzo
+Abril
